@@ -1,7 +1,7 @@
 <?php
 
 $dbhost = "localhost"; // Database Hostname
-$dbname = ""; // Database Name
+$dbname = "postal_code_api"; // Database Name
 $user = ""; // Database Username
 $password = ""; // Database User's Password
 
