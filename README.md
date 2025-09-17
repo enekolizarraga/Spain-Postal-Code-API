@@ -58,15 +58,15 @@ GET /api/info/postalCode/48001
   "results": {
     "country": "ES",
     "postal_code": "48001",
-    "city": "Donostia San Sebastián",
+    "city": "Bilbao",
     "state": "País Vasco",
     "state_code": "PV",
-    "province": "Gipuzkoa",
-    "province_code": "SS",
+    "province": "Vizcaya",
+    "province_code": "BI",
     "localization": {
-      "latitude": "43.3183",
-      "longitude": "-1.9812",
-      "accuracy": "4"
+      "latitude": "43.263300",
+      "longitude": "-2.928600",
+      "accuracy": 4
     }
   }
 }
@@ -209,7 +209,7 @@ GET /api/info/states
     },
     {
       "state_code": "CT",
-      "state_name": "Cataluña"
+      "state_name": "Cataluna"
     }
   ]
 }
